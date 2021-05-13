@@ -1,7 +1,7 @@
 /* colors */
 /* responsive mixin */
 /* placeholder */
-::-webkit-input-placeholder {
+/* ::-webkit-input-placeholder {
   color: #888888;
   opacity: 0;
   transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1);
@@ -35,7 +35,7 @@ input:focus::-moz-placeholder {
 }
 input:focus:-ms-input-placeholder {
   opacity: 1;
-}
+} */
 
 /* main content */
 
