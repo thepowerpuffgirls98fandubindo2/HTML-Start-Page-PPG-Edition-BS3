@@ -46,6 +46,7 @@ input:focus:-ms-input-placeholder {
   width: 40%;
   margin: 10vh auto 0px;
   text-align: center;
+  height: 105px;
 }
 @media screen and (max-width: 1000px) {
   .search-block {
