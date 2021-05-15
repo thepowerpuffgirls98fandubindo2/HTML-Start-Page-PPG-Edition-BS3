@@ -5,4 +5,4 @@ This is Startpage Powerpuff style with Bootstrap 3
 
 [jQuery randbg](https://www.jqueryscript.net/other/jQuery-Plugin-For-Random-Background-Image-randomBackground.html)
 
-[famfamfam Icons](https://famfamfam.com/lab/icons/)
+[famfamfam Icons](http://famfamfam.com/lab/icons/)
