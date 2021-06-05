@@ -164,51 +164,34 @@ background-size: cover;
 background-attachment: fixed;
     background-position: center;
 }
-.randbg.bg0{
-background-image: url('images/background/powerpuffgirls.001.jpg');
+.randbg.bg0 {
+-webkit-background-size: auto;
+-moz-background-size: auto;
+-o-background-size: auto;
+background-size: auto;
+background-position: unset;
+background-image: url('images/background/ppgtiles.jpg');
 }
-.randbg.bg1 {
-background-image: url('images/background/powerpuffgirls.001.jpg');
-}
-.randbg.bg2 {
-background-image: url('images/background/powerpuffgirls.002.jpg');
-}
-.randbg.bg3 {
-background-image: url('images/background/powerpuffgirls.003.jpg');
-}
-.randbg.bg4 {
-background-image: url('images/background/powerpuffgirls.004.jpg');
-}
-.randbg.bg5 {
-background-image: url('images/background/powerpuffgirls.005.jpg');
-}
-.randbg.bg6 {
-background-image: url('images/background/powerpuffgirls.006.jpg');
-}
-.randbg.bg7 {
-background-image: url('images/background/powerpuffgirls.007.jpg');
-}
-.randbg.bg8 {
-background-image: url('images/background/powerpuffgirls.008.jpg');
-}
-.randbg.bg9 {
-background-image: url('images/background/powerpuffgirls.009.jpg');
-}
-.randbg.bg10 {
-background-image: url('images/background/powerpuffgirls.010.jpg');
-}
-.randbg.bg11 {
-background-image: url('images/background/ppg01.png');
-}
-.randbg.bg12 {
-background-image: url('images/background/ppg02.png');
-}
-.randbg.bg13 {
-background-image: url('images/background/ppg03.png');
-}
-.randbg.bg14 {
-background-image: url('images/background/ppg04.jpg');
-}
-.randbg.bg15 {
-background-image: url('images/background/ppg05.png');
-}
+.randbg.bg1{background-image:url('images/background/powerpuffgirls.001.jpg')}
+.randbg.bg2{background-image:url('images/background/powerpuffgirls.002.jpg')}
+.randbg.bg3{background-image:url('images/background/powerpuffgirls.003.jpg')}
+.randbg.bg4{background-image:url('images/background/powerpuffgirls.004.jpg')}
+.randbg.bg5{background-image:url('images/background/powerpuffgirls.005.jpg')}
+.randbg.bg6{background-image:url('images/background/powerpuffgirls.006.jpg')}
+.randbg.bg7{background-image:url('images/background/powerpuffgirls.007.jpg')}
+.randbg.bg8{background-image:url('images/background/powerpuffgirls.008.jpg')}
+.randbg.bg9{background-image:url('images/background/powerpuffgirls.009.jpg')}
+.randbg.bg10{background-image:url('images/background/powerpuffgirls.010.jpg')}
+.randbg.bg11{background-image:url('images/background/ppg01.png')}
+.randbg.bg12{background-image:url('images/background/ppg02.png')}
+.randbg.bg13{background-image:url('images/background/ppg03.png')}
+.randbg.bg14{background-image:url('images/background/ppg04.jpg')}
+.randbg.bg15{background-image:url('images/background/ppg05.jpg')}
+.randbg.bg16{background-image:url('images/background/ppg06.jpg')}
+.randbg.bg17{background-image:url('images/background/ppg07.jpg')}
+.randbg.bg18{background-image:url('images/background/ppg08.jpg')}
+.randbg.bg19{background-image:url('images/background/ppg09.jpg')}
+.randbg.bg20{background-image:url('images/background/ppg10.jpg')}
+.randbg.bg21{background-image:url('images/background/ppg11.jpg')}
+.randbg.bg22{background-image:url('images/background/ppg12.jpg')}
+.randbg.bg23{background-image:url('images/background/ppg13.jpg')}
